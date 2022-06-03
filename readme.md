@@ -1,4 +1,4 @@
 #Preview
 <p align="center"> 
-    <img src="https://github.com/sanavila/JS_Css_Display-flex/img/projeto.png">
+    <img src="https://raw.githubusercontent.com/sanavila/JS_Css_Display-flex/main/img/projeto.png">
 </p>
