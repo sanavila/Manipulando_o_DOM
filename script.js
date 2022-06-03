@@ -1,5 +1,5 @@
-const dateFirtJs = () => {
-    return (
-        document.getElementById('result').innerHTML = Date()
-    )
+const dateFirtJs = () => {     
+    result.innerHTML = Date()
+    title.innerHTML = "Estou muito orgulhoso de você!"
+    buttonDate.style.display = "none" 
 } 
